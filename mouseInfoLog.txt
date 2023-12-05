@@ -1,0 +1,7 @@
+1645,236 (ID field)
+1654,317 (document type field)
+1649,514 (term field)
+1841,831 (save/modify button)
+check for append 1163,290 (29,99,145)
+if append, click 1163, 290
+94, 185 (New Document)
